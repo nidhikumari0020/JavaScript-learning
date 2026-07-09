@@ -89,3 +89,22 @@ for (let i = 0; i<price.length;i++){
 
 }
 console.log(price);
+
+
+const todoList = ["Buy milk", "Clean room"];
+
+// Add an item
+todoList.push("Run 5k"); 
+console.log(todoList); // ["Buy milk", "Clean room", "Run 5k"]
+
+// Remove the last item
+todoList.pop(); 
+console.log(todoList); // ["Buy milk", "Clean room"]
+
+const shoppingList = ["Apples", "Bread", "Eggs"];
+
+console.log(shoppingList.length); // 3
+
+if (shoppingList.includes("Bread")) {
+    console.log("Don't forget the bread!");
+}
