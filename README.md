@@ -1,19 +1,16 @@
 # JavaScript Learning Journey
 
-This repository contains my JavaScript practice, coding exercises, and mini projects as I learn JavaScript from basics to advanced.
+Welcome to my JavaScript learning repository!
 
-## Topics Covered
-- Variables
-- Data Types
-- Operators
-- Control Flow
-- Loops
-- Functions
-- Arrays
-- Objects
-- DOM Manipulation
-- ES6+
-- Async JavaScript
+This repository documents my progress as I learn JavaScript through hands-on coding, problem-solving, and mini projects.
 
-## Goal
-To build a strong JavaScript foundation for React and Full-Stack Web Development.
+## What You'll Find
+- JavaScript fundamentals
+- Practice programs
+- Coding challenges
+- ES6+ features
+- DOM projects
+- Notes and examples
+
+## Objective
+Build a strong JavaScript foundation for React, Node.js, and Full-Stack Web Development.
