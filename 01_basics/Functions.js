@@ -36,3 +36,15 @@ function multiply(a, b) {
 }
 
 let result = multiply(4, 5);
+
+function printReceipt(item, price) {
+  let cleanedItem = item.trim();
+  console.log(`--- RECEIPT ---`);
+  console.log(`Item: ${cleanedItem}`);
+  console.log(`Price: $${price}`);
+  console.log(`---------------`);
+}
+
+// Calling the function with different items
+printReceipt("  MacBook Pro  ", 1299);
+printReceipt("Hard Drive", 85);
